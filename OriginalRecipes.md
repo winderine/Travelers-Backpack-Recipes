@@ -1,5 +1,5 @@
 > [!NOTE]
-> Each section below contains many images and may take some time to load.
+> Each section below contains many images and may take some time to load. Screenshots thanks to TΞTRΛ (@tetra326) on Discord.
 
 ## Versions
 <details>
